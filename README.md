@@ -1,5 +1,7 @@
 # CurrencyExchanger
-A WPF app, get the rate from xml, show the rate in table, change a currency to another...
+WPF C#,
+SOAP,
+List current rates and change a currency to another...
 
 
 <br/><br/><br/>
