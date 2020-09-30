@@ -1,7 +1,7 @@
 # CurrencyExchanger
 
 List current rates from central bank of Turkey, and change a currency to another...<br/>
-Labels:WPF, C#, SOAP
+WPF, C#, SOAP
 
 
 <br/><br/><br/>
