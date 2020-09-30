@@ -1,7 +1,7 @@
 # CurrencyExchanger
-WPF C#,
-SOAP,
-List current rates from central bank of Turkey, and change a currency to another...
+
+List current rates from central bank of Turkey, and change a currency to another...<br/>
+Labels:WPF, C#, SOAP
 
 
 <br/><br/><br/>
